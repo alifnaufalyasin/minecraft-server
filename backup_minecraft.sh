@@ -4,6 +4,6 @@ git add ./
 
 git commit -m "backup minecraft server by system
 
-Co-authored-by: AlifNaufal <alifnaufalyasin@gmail.com>"
+Co-authored-by: Alif Naufal <alifnaufalyasin@gmail.com>"
 
 git push
